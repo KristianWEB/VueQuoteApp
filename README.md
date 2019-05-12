@@ -1,4 +1,4 @@
-#Quote Application
+## Quotes Application
 > A Vue.js project
 
 ## Build Setup
